@@ -8,6 +8,8 @@ Exploratory Data Analysis on Malnutrition world dataset , to examine clear insig
 
 ## Screenshots
 <p align="center">
-<img src="Dash.PNG">
+<img src="Dash.PNG"><br>
+  <img src="country.png"><br>
+  <img src="box.jpg"><br>
   
 </p>
